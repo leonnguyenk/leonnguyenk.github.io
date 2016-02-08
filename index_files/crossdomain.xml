@@ -1,0 +1,6 @@
+<cross-domain-policy>
+  	<allow-access-from domain="*.nhaccuatui.com" />
+  	<allow-access-from domain="*.nct.vn" />
+  	<allow-access-from domain="*.gonct.info" />
+  	<allow-access-from domain="*.nixcdn.com"/>
+ </cross-domain-policy>
